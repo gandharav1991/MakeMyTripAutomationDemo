@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [submitAdd]">
+  <parameter name="pdfngreport-properties" value="G:\OlxAutomation\test-output\pdfng\property\pdfngreport.properties"/>
+  <listeners>
+    <listener class-name="com.uttesh.pdfngreport.PDFReportListener"/>
+  </listeners>
+  <test name="mobileAdd(failed)">
+    <classes>
+      <class name="com.olx.submitAdd.TestCase_carAdd">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_carAdd -->
+      <class name="com.olx.submitAdd.TestCase_mobileAdd">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="nonAutomatedBuyFlow" invocation-numbers="0 1"/>
+          <include name="checkTestSkip"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_mobileAdd -->
+    </classes>
+  </test> <!-- mobileAdd(failed) -->
+  <test name="carAdd(failed)">
+    <classes>
+      <class name="com.olx.submitAdd.TestCase_carAdd">
+        <methods>
+          <include name="nonAutomatedBuyFlow" invocation-numbers="0"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_carAdd -->
+      <class name="com.olx.submitAdd.TestCase_mobileAdd">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_mobileAdd -->
+    </classes>
+  </test> <!-- carAdd(failed) -->
+</suite> <!-- Failed suite [submitAdd] -->

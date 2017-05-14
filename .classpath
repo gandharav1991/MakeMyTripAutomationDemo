@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/avalon-framework-api-4.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/avalon-framework-impl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-anim-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-bridge-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-css-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-extension-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-gvt-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-parser-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-script-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-svg-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-svggen-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-transcoder-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/fop-2.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/pdfngreport-2.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/snakeyaml-1.6.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/testng-6.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/selenium cook book/driver/jars/xmlgraphics-commons-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

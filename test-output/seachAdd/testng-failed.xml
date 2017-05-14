@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [seachAdd]">
+  <parameter name="pdfngreport-properties" value="G:\OlxAutomation\test-output\pdfng\property\pdfngreport.properties"/>
+  <listeners>
+    <listener class-name="com.uttesh.pdfngreport.PDFReportListener"/>
+  </listeners>
+  <test name="mobileAdd(failed)">
+    <classes>
+      <class name="com.olx.searchAdd.TestCase_mobileAdd">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="testData"/>
+          <include name="nonAutomatedBuyFlow" invocation-numbers="0"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.olx.searchAdd.TestCase_mobileAdd -->
+    </classes>
+  </test> <!-- mobileAdd(failed) -->
+</suite> <!-- Failed suite [seachAdd] -->

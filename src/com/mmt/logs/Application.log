@@ -1,0 +1,659 @@
+2016-09-18 12:29:39,194 INFO  [-->] Loading Property files 
+2016-09-18 12:29:39,201 INFO  [-->] Loaded Property files successfully 
+2016-09-18 12:29:39,201 INFO  [-->] Loading XLS Files 
+2016-09-18 12:29:40,140 INFO  [-->] Loaded XLS Files successfully 
+2016-09-18 12:29:40,141 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2016-09-18 12:29:40,279 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2016-09-18 12:29:40,279 INFO  [-->] ================================================================================================================================================== 
+2016-09-18 12:29:40,279 INFO  [-->] Opening Firefox Browser 
+2016-09-18 12:29:47,503 INFO  [-->] Firefox browser started 
+2016-09-18 12:29:47,503 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2016-09-18 12:30:27,895 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2016-09-18 12:30:32,305 INFO  [-->] Waiting for page load 
+2016-09-18 12:31:05,461 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2016-09-18 12:31:06,628 INFO  [-->] Clicking on:-- lnk_Category_id 
+2016-09-18 12:31:06,810 INFO  [-->] Closing the browser now 
+2016-09-18 12:31:12,826 INFO  [FOUserAgent] Rendered page #1. 
+2016-09-18 12:31:12,865 INFO  [FOUserAgent] Rendered page #2. 
+2016-10-06 16:13:22,018 INFO  [-->] Loading Property files 
+2016-10-06 16:13:22,050 INFO  [-->] Loaded Property files successfully 
+2016-10-06 16:13:22,050 INFO  [-->] Loading XLS Files 
+2016-10-06 16:13:24,113 INFO  [-->] Loaded XLS Files successfully 
+2016-10-06 16:13:24,113 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2016-10-06 16:13:24,383 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2016-10-06 16:13:24,383 INFO  [-->] ================================================================================================================================================== 
+2016-10-06 16:13:24,383 INFO  [-->] Opening Firefox Browser 
+2016-10-06 16:13:35,268 INFO  [-->] Firefox browser started 
+2016-10-06 16:13:35,269 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2016-10-06 16:14:07,883 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2016-10-06 16:14:08,469 INFO  [-->] Waiting for page load 
+2016-10-06 16:14:22,171 ERROR [-->] Error communicating with the remote browser. It may have died.
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a0b7b69a-5790-445f-915c-01d923160986 
+2016-10-06 16:14:22,172 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2016-10-06 16:14:23,180 ERROR [-->] Not able to enter the value:-- Error communicating with the remote browser. It may have died.
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a0b7b69a-5790-445f-915c-01d923160986 
+2016-10-06 16:14:31,697 INFO  [FOUserAgent] Rendered page #1. 
+2016-10-06 16:14:31,736 INFO  [FOUserAgent] Rendered page #2. 
+2016-10-08 13:54:07,163 INFO  [-->] Loading Property files 
+2016-10-08 13:54:07,182 INFO  [-->] Loaded Property files successfully 
+2016-10-08 13:54:07,183 INFO  [-->] Loading XLS Files 
+2016-10-08 13:54:08,345 INFO  [-->] Loaded XLS Files successfully 
+2016-10-08 13:54:08,345 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2016-10-08 13:54:08,571 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2016-10-08 13:54:08,571 INFO  [-->] ================================================================================================================================================== 
+2016-10-08 13:54:08,571 INFO  [-->] Opening Firefox Browser 
+2016-10-08 13:54:17,158 INFO  [-->] Firefox browser started 
+2016-10-08 13:54:17,158 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2016-10-08 13:54:42,149 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2016-10-08 13:55:06,351 INFO  [-->] Waiting for page load 
+2016-10-08 13:55:06,985 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2016-10-08 13:55:07,215 INFO  [-->] Clicking on:-- lnk_Category_id 
+2016-10-08 13:55:07,364 INFO  [-->] Closing the browser now 
+2016-10-08 13:55:12,893 INFO  [FOUserAgent] Rendered page #1. 
+2016-10-08 13:55:12,925 INFO  [FOUserAgent] Rendered page #2. 
+2016-12-04 14:28:21,292 INFO  [-->] Loading Property files 
+2016-12-04 14:28:21,294 INFO  [-->] Loaded Property files successfully 
+2016-12-04 14:28:21,294 INFO  [-->] Loading XLS Files 
+2016-12-04 14:28:22,051 INFO  [-->] Loaded XLS Files successfully 
+2016-12-04 14:28:22,051 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2016-12-04 14:28:22,219 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Chrome====================================================== 
+2016-12-04 14:28:22,219 INFO  [-->] ================================================================================================================================================== 
+2016-12-04 14:28:22,219 INFO  [-->] Opening Chrome Browser 
+2016-12-04 14:28:35,712 ERROR [-->] Not able to start the browser: -- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.43.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: ChromeDriver 
+2016-12-04 14:28:39,083 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: IE====================================================== 
+2016-12-04 14:28:39,083 INFO  [-->] ================================================================================================================================================== 
+2016-12-04 14:28:39,084 INFO  [-->] Opening IE Browser 
+2016-12-04 14:28:44,588 INFO  [-->] IE browser started 
+2016-12-04 14:28:44,589 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2016-12-10 14:02:50,604 INFO  [-->] Loading Property files 
+2016-12-10 14:02:50,630 INFO  [-->] Loaded Property files successfully 
+2016-12-10 14:02:50,630 INFO  [-->] Loading XLS Files 
+2016-12-10 14:02:52,411 INFO  [-->] Loaded XLS Files successfully 
+2016-12-10 14:02:52,411 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2016-12-10 14:02:52,814 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Chrome====================================================== 
+2016-12-10 14:02:52,814 INFO  [-->] ================================================================================================================================================== 
+2016-12-10 14:02:52,814 INFO  [-->] Opening Chrome Browser 
+2016-12-10 14:02:58,296 ERROR [-->] Not able to start the browser: -- session not created exception
+from unknown error: Runtime.executionContextCreated has invalid 'context': {"auxData":{"frameId":"1776.1","isDefault":true},"id":1,"name":"","origin":"://"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.77 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.43.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-12-10 14:02:59,737 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: IE====================================================== 
+2016-12-10 14:02:59,738 INFO  [-->] ================================================================================================================================================== 
+2016-12-10 14:02:59,738 INFO  [-->] Opening IE Browser 
+2016-12-10 14:03:03,462 INFO  [-->] IE browser started 
+2016-12-10 14:03:03,462 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-01-08 15:49:54,182 INFO  [-->] Loading Property files 
+2017-01-08 15:52:54,427 INFO  [-->] Loading Property files 
+2017-01-08 15:52:54,454 INFO  [-->] Loaded Property files successfully 
+2017-01-08 15:52:54,454 INFO  [-->] Loading XLS Files 
+2017-01-08 15:52:56,060 INFO  [-->] Loaded XLS Files successfully 
+2017-01-08 15:52:56,060 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-01-08 15:52:56,303 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Chrome====================================================== 
+2017-01-08 15:52:56,304 INFO  [-->] ================================================================================================================================================== 
+2017-01-08 15:52:56,304 INFO  [-->] Opening Chrome Browser 
+2017-01-08 15:53:26,888 ERROR [-->] Not able to start the browser: -- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.43.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: ChromeDriver 
+2017-01-08 15:53:28,275 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: IE====================================================== 
+2017-01-08 15:53:28,275 INFO  [-->] ================================================================================================================================================== 
+2017-01-08 15:53:28,275 INFO  [-->] Opening IE Browser 
+2017-01-08 15:53:34,466 INFO  [-->] IE browser started 
+2017-01-08 15:53:34,466 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-01-08 15:54:43,362 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-01-08 15:54:43,739 ERROR [-->] Not able to click on -- Unable to find element with xpath == //*[@id='postNewAdLink'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 362 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Ayaz-PC', ip: '192.168.43.69', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=8, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:47464/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f580a277-16cf-447e-bf8c-7ad2fd1c9ced
+*** Element info: {Using=xpath, value=//*[@id='postNewAdLink']} 
+2017-01-08 15:54:43,871 INFO  [-->] ScreenShot is captured and stored at C:\Users\Ayaz\workspace\OlxAutomation\Screenshots\Fail01-2017-08 15.54.43.jpg 
+2017-01-08 16:07:51,564 INFO  [-->] Loading Property files 
+2017-01-08 16:07:51,566 INFO  [-->] Loaded Property files successfully 
+2017-01-08 16:07:51,567 INFO  [-->] Loading XLS Files 
+2017-01-08 16:07:52,381 INFO  [-->] Loaded XLS Files successfully 
+2017-01-08 16:07:52,381 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-01-08 16:07:52,499 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2017-01-08 16:07:52,499 INFO  [-->] ================================================================================================================================================== 
+2017-01-08 16:07:52,499 INFO  [-->] Opening Firefox Browser 
+2017-01-08 16:08:06,394 INFO  [-->] Firefox browser started 
+2017-01-08 16:08:06,394 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-01-08 16:09:17,782 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-01-08 16:09:21,389 INFO  [-->] Waiting for page load 
+2017-01-08 16:10:35,452 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-01-08 16:10:35,783 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-01-08 16:10:36,988 INFO  [-->] Closing the browser now 
+2017-01-08 16:10:38,307 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: IE====================================================== 
+2017-01-08 16:10:38,307 INFO  [-->] ================================================================================================================================================== 
+2017-01-08 16:10:38,307 INFO  [-->] Opening IE Browser 
+2017-01-08 16:10:40,550 INFO  [-->] IE browser started 
+2017-01-08 16:10:40,550 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-01-08 16:10:56,111 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-01-08 16:10:56,787 INFO  [-->] Waiting for page load 
+2017-01-08 16:11:13,078 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-01-08 16:11:13,870 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-01-08 16:11:26,020 INFO  [-->] Closing the browser now 
+2017-01-08 16:13:26,616 INFO  [-->] Loading Property files 
+2017-01-08 16:13:26,618 INFO  [-->] Loaded Property files successfully 
+2017-01-08 16:13:26,618 INFO  [-->] Loading XLS Files 
+2017-01-08 16:13:27,408 INFO  [-->] Loaded XLS Files successfully 
+2017-01-08 16:13:27,408 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-01-08 16:13:27,570 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2017-01-08 16:13:27,570 INFO  [-->] ================================================================================================================================================== 
+2017-01-08 16:13:27,570 INFO  [-->] Opening Firefox Browser 
+2017-01-08 16:13:35,627 INFO  [-->] Firefox browser started 
+2017-01-08 16:13:35,627 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-01-08 16:15:06,810 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-01-08 16:15:07,112 INFO  [-->] Waiting for page load 
+2017-01-08 16:16:28,507 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-01-08 16:16:28,728 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-01-08 16:16:28,895 INFO  [-->] Closing the browser now 
+2017-02-05 16:42:37,368 INFO  [-->] Loading Property files 
+2017-02-05 16:42:37,384 INFO  [-->] Loaded Property files successfully 
+2017-02-05 16:42:37,384 INFO  [-->] Loading XLS Files 
+2017-02-05 16:42:39,845 INFO  [-->] Loaded XLS Files successfully 
+2017-02-05 16:42:39,845 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-02-05 16:42:40,070 INFO  [-->] ================================ Executing TestCase_ComNonAutomated for Test Data: Firefox====================================================== 
+2017-02-05 16:42:40,070 INFO  [-->] ================================================================================================================================================== 
+2017-02-05 16:42:40,071 INFO  [-->] Opening Firefox Browser 
+2017-02-05 16:42:53,125 INFO  [-->] Firefox browser started 
+2017-02-05 16:42:53,125 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-02-05 16:42:53,355 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-02-05 16:42:53,767 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"xpath","selector":"//*[@id='postNewAdLink']"}
+Command duration or timeout: 67 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'Ayaz-PC', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5e3ca22a-243c-45fb-bf5f-268eed549912
+*** Element info: {Using=xpath, value=//*[@id='postNewAdLink']} 
+2017-02-05 16:42:54,003 INFO  [-->] ScreenShot is captured and stored at C:\Users\Ayaz\workspace\OlxAutomation\Screenshots\Fail02-2017-05 16.42.53.jpg 
+2017-04-22 15:22:49,963 INFO  [-->] Loading Property files 
+2017-04-22 15:22:49,964 INFO  [-->] Loaded Property files successfully 
+2017-04-22 15:22:49,965 INFO  [-->] Loading XLS Files 
+2017-04-22 15:22:51,314 INFO  [-->] Loaded XLS Files successfully 
+2017-04-22 15:22:51,314 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-22 15:22:51,514 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-22 15:22:51,514 INFO  [-->] ================================================================================================================================================== 
+2017-04-22 15:22:51,514 INFO  [-->] Opening Firefox Browser 
+2017-04-22 15:23:00,166 INFO  [-->] Firefox browser started 
+2017-04-22 15:23:00,167 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-22 15:26:17,173 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-22 15:27:31,961 INFO  [-->] Waiting for page load 
+2017-04-22 15:27:32,016 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-04-22 15:27:32,162 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-04-22 15:27:32,253 INFO  [-->] Closing the browser now 
+2017-04-22 15:27:34,449 INFO  [-->] ================================ Executing TestCase_carAdd for Test Data: Firefox====================================================== 
+2017-04-22 15:27:34,449 INFO  [-->] ================================================================================================================================================== 
+2017-04-22 15:27:34,449 INFO  [-->] Opening Firefox Browser 
+2017-04-22 15:27:40,805 INFO  [-->] Firefox browser started 
+2017-04-22 15:27:40,806 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-22 15:28:22,084 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-22 15:28:22,907 INFO  [-->] Waiting for page load 
+2017-04-22 15:28:31,964 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-04-22 15:28:32,774 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-04-22 15:28:33,725 INFO  [-->] Closing the browser now 
+2017-04-22 15:28:34,175 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-04-22 15:28:34,184 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-22 15:28:34,184 INFO  [-->] ================================================================================================================================================== 
+2017-04-22 15:28:34,184 INFO  [-->] Opening Firefox Browser 
+2017-04-22 15:28:39,678 INFO  [-->] Firefox browser started 
+2017-04-22 15:28:39,678 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-22 15:28:49,620 INFO  [-->] Closing the browser now 
+2017-04-23 13:27:29,214 INFO  [-->] Loading Property files 
+2017-04-23 13:27:29,214 INFO  [-->] Loaded Property files successfully 
+2017-04-23 13:27:29,214 INFO  [-->] Loading XLS Files 
+2017-04-23 13:27:30,264 INFO  [-->] Loaded XLS Files successfully 
+2017-04-23 13:27:30,264 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-23 13:27:30,375 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 13:27:30,375 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 13:27:30,375 INFO  [-->] Opening Firefox Browser 
+2017-04-23 13:27:39,023 INFO  [-->] Firefox browser started 
+2017-04-23 13:27:39,024 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 13:32:34,101 INFO  [-->] Loading Property files 
+2017-04-23 13:32:34,101 INFO  [-->] Loaded Property files successfully 
+2017-04-23 13:32:34,101 INFO  [-->] Loading XLS Files 
+2017-04-23 13:32:34,701 INFO  [-->] Loaded XLS Files successfully 
+2017-04-23 13:32:34,701 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-23 13:32:34,782 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 13:32:34,782 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 13:32:34,782 INFO  [-->] Opening Firefox Browser 
+2017-04-23 13:32:40,025 INFO  [-->] Firefox browser started 
+2017-04-23 13:32:40,025 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 13:33:45,915 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-23 13:33:48,108 INFO  [-->] Waiting for page load 
+2017-04-23 13:34:41,733 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-04-23 13:34:41,952 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-04-23 13:34:42,133 INFO  [-->] Closing the browser now 
+2017-04-23 13:34:44,005 INFO  [-->] ================================ Executing TestCase_carAdd for Test Data: Firefox====================================================== 
+2017-04-23 13:34:44,005 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 13:34:44,005 INFO  [-->] Opening Firefox Browser 
+2017-04-23 13:34:48,359 INFO  [-->] Firefox browser started 
+2017-04-23 13:34:48,359 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 13:35:40,425 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-23 13:35:41,712 INFO  [-->] Waiting for page load 
+2017-04-23 13:36:30,864 INFO  [-->] Entering the value in:-- txtbx_AdTitle_xpath 
+2017-04-23 13:36:31,046 INFO  [-->] Clicking on:-- lnk_Category_id 
+2017-04-23 13:36:31,226 INFO  [-->] Closing the browser now 
+2017-04-23 13:36:31,490 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-04-23 13:36:31,509 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 13:36:31,509 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 13:36:31,546 INFO  [-->] Opening Firefox Browser 
+2017-04-23 13:36:36,114 INFO  [-->] Firefox browser started 
+2017-04-23 13:36:36,114 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 13:37:49,161 INFO  [-->] Closing the browser now 
+2017-04-23 14:27:02,543 INFO  [-->] Loading Property files 
+2017-04-23 14:27:02,559 INFO  [-->] Loaded Property files successfully 
+2017-04-23 14:27:02,559 INFO  [-->] Loading XLS Files 
+2017-04-23 14:27:05,179 INFO  [-->] Loaded XLS Files successfully 
+2017-04-23 14:27:05,179 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-23 14:27:05,461 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:27:05,461 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:27:05,461 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:27:15,127 INFO  [-->] Firefox browser started 
+2017-04-23 14:27:15,128 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:27:23,988 INFO  [-->] ================================ Executing TestCase_carAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:27:23,988 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:27:23,988 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:27:31,225 INFO  [-->] Firefox browser started 
+2017-04-23 14:27:31,226 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:27:37,408 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-04-23 14:27:37,424 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:27:37,424 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:27:37,424 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:27:44,541 INFO  [-->] Firefox browser started 
+2017-04-23 14:27:44,541 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:40:32,774 INFO  [-->] Loading Property files 
+2017-04-23 14:40:32,774 INFO  [-->] Loaded Property files successfully 
+2017-04-23 14:40:32,774 INFO  [-->] Loading XLS Files 
+2017-04-23 14:40:33,508 INFO  [-->] Loaded XLS Files successfully 
+2017-04-23 14:40:33,508 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-23 14:40:33,617 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:40:33,617 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:40:33,617 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:40:44,137 INFO  [-->] Firefox browser started 
+2017-04-23 14:40:44,137 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:40:48,764 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-23 14:40:48,875 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"xpath","selector":"//*[@id='postNewAdLink']"}
+Command duration or timeout: 67 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 213e6bff-c8cc-41ee-ac02-55471a1f0b0a
+*** Element info: {Using=xpath, value=//*[@id='postNewAdLink']} 
+2017-04-23 14:40:49,031 INFO  [-->] ScreenShot is captured and stored at G:\OlxAutomation\Screenshots\Fail04-2017-23 14.40.48.jpg 
+2017-04-23 14:40:50,102 INFO  [-->] ================================ Executing TestCase_carAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:40:50,102 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:40:50,102 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:40:57,060 INFO  [-->] Firefox browser started 
+2017-04-23 14:40:57,060 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:41:01,692 INFO  [-->] Clicking on:-- btn_SubmitAFreeAdd_xpath 
+2017-04-23 14:41:01,863 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"xpath","selector":"//*[@id='postNewAdLink']"}
+Command duration or timeout: 169 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f5dfd116-2427-4d42-83dc-34908dc8d98e
+*** Element info: {Using=xpath, value=//*[@id='postNewAdLink']} 
+2017-04-23 14:41:01,987 INFO  [-->] ScreenShot is captured and stored at G:\OlxAutomation\Screenshots\Fail04-2017-23 14.41.01.jpg 
+2017-04-23 14:41:02,206 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-04-23 14:41:02,214 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:41:02,215 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:41:02,215 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:41:10,210 INFO  [-->] Firefox browser started 
+2017-04-23 14:41:10,211 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:41:11,417 INFO  [-->] Closing the browser now 
+2017-04-23 14:46:04,807 INFO  [-->] Loading Property files 
+2017-04-23 14:46:04,807 INFO  [-->] Loaded Property files successfully 
+2017-04-23 14:46:04,807 INFO  [-->] Loading XLS Files 
+2017-04-23 14:46:05,368 INFO  [-->] Loaded XLS Files successfully 
+2017-04-23 14:46:05,368 INFO  [-->] Checking Runmode of Suite SubmitAdd 
+2017-04-23 14:46:05,463 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:46:05,463 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:46:05,463 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:46:10,608 INFO  [-->] Firefox browser started 
+2017-04-23 14:46:10,608 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:46:57,174 INFO  [-->] ================================ Executing TestCase_carAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:46:57,174 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:46:57,174 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:47:01,732 INFO  [-->] Firefox browser started 
+2017-04-23 14:47:01,732 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-04-23 14:47:49,765 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-04-23 14:47:49,781 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-04-23 14:47:49,781 INFO  [-->] ================================================================================================================================================== 
+2017-04-23 14:47:49,781 INFO  [-->] Opening Firefox Browser 
+2017-04-23 14:47:53,948 INFO  [-->] Firefox browser started 
+2017-04-23 14:47:53,948 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-05-07 15:37:55,770 INFO  [-->] Loading Property files 
+2017-05-07 15:37:55,771 INFO  [-->] Loaded Property files successfully 
+2017-05-07 15:37:55,772 INFO  [-->] Loading XLS Files 
+2017-05-07 15:37:56,484 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 15:37:56,485 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 15:37:56,499 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 15:38:24,970 INFO  [-->] Loading Property files 
+2017-05-07 15:38:24,971 INFO  [-->] Loaded Property files successfully 
+2017-05-07 15:38:24,972 INFO  [-->] Loading XLS Files 
+2017-05-07 15:38:25,795 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 15:38:25,795 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 15:38:25,811 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 15:40:03,385 INFO  [-->] Loading Property files 
+2017-05-07 15:40:03,386 INFO  [-->] Loaded Property files successfully 
+2017-05-07 15:40:03,386 INFO  [-->] Loading XLS Files 
+2017-05-07 15:40:04,078 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 15:40:04,078 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 15:40:04,091 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 15:59:12,312 INFO  [-->] Loading Property files 
+2017-05-07 15:59:12,313 INFO  [-->] Loaded Property files successfully 
+2017-05-07 15:59:12,313 INFO  [-->] Loading XLS Files 
+2017-05-07 15:59:13,027 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 15:59:13,027 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 15:59:13,040 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 16:00:13,360 INFO  [-->] Loading Property files 
+2017-05-07 16:00:13,361 INFO  [-->] Loaded Property files successfully 
+2017-05-07 16:00:13,361 INFO  [-->] Loading XLS Files 
+2017-05-07 16:00:14,039 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 16:00:14,040 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 16:00:14,054 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 16:02:43,107 INFO  [-->] Loading Property files 
+2017-05-07 16:02:43,108 INFO  [-->] Loaded Property files successfully 
+2017-05-07 16:02:43,108 INFO  [-->] Loading XLS Files 
+2017-05-07 16:02:43,782 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 16:02:43,782 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 16:02:43,795 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 16:03:51,336 INFO  [-->] Loading Property files 
+2017-05-07 16:03:51,338 INFO  [-->] Loaded Property files successfully 
+2017-05-07 16:03:51,338 INFO  [-->] Loading XLS Files 
+2017-05-07 16:03:52,105 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 16:03:52,105 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 16:03:52,119 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 16:06:48,851 INFO  [-->] Loading Property files 
+2017-05-07 16:06:48,853 INFO  [-->] Loaded Property files successfully 
+2017-05-07 16:06:48,853 INFO  [-->] Loading XLS Files 
+2017-05-07 16:06:49,593 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 16:06:49,594 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 16:06:49,606 INFO  [-->] Skipping Test CaseTestCase_ForEngineer as runmode set to NO 
+2017-05-07 16:08:52,618 INFO  [-->] Loading Property files 
+2017-05-07 16:08:52,620 INFO  [-->] Loaded Property files successfully 
+2017-05-07 16:08:52,620 INFO  [-->] Loading XLS Files 
+2017-05-07 16:08:53,273 INFO  [-->] Loaded XLS Files successfully 
+2017-05-07 16:08:53,273 INFO  [-->] Checking Runmode of Suite JoinUs Suite 
+2017-05-07 16:08:53,360 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-07 16:08:53,360 INFO  [-->] ================================================================================================================================================== 
+2017-05-07 16:08:53,360 INFO  [-->] Opening Firefox Browser 
+2017-05-07 16:09:06,014 INFO  [-->] Firefox browser started 
+2017-05-07 16:09:06,014 INFO  [-->] Navigating to URL--:https://www.olx.in/ 
+2017-05-07 16:09:43,219 INFO  [-->] Closing the browser now 
+2017-05-14 14:43:05,864 INFO  [-->] Loading Property files 
+2017-05-14 14:43:05,864 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:43:05,864 INFO  [-->] Loading XLS Files 
+2017-05-14 14:43:08,001 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:43:08,001 INFO  [-->] Checking Runmode of Suite SearchAdd 
+2017-05-14 14:46:19,913 INFO  [-->] Loading Property files 
+2017-05-14 14:46:19,913 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:46:19,913 INFO  [-->] Loading XLS Files 
+2017-05-14 14:46:20,443 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:46:20,443 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 14:49:16,574 INFO  [-->] Loading Property files 
+2017-05-14 14:49:16,574 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:49:16,574 INFO  [-->] Loading XLS Files 
+2017-05-14 14:49:17,151 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:49:17,151 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 14:49:17,184 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 14:49:17,184 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 14:49:17,184 INFO  [-->] Opening Firefox Browser 
+2017-05-14 14:49:28,384 INFO  [-->] Firefox browser started 
+2017-05-14 14:49:28,384 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 14:49:28,550 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 14:49:28,797 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"id","selector":"header_tab_flights"}
+Command duration or timeout: 207 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 06519ad0-a44d-4c29-9311-28452eb5d0c3
+*** Element info: {Using=id, value=header_tab_flights} 
+2017-05-14 14:49:29,265 INFO  [-->] ScreenShot is captured and stored at C:\Users\dell\workspace\MMTAutomation\Screenshots\Fail05-2017-14 14.49.29.jpg 
+2017-05-14 14:51:28,110 INFO  [-->] Loading Property files 
+2017-05-14 14:51:28,126 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:51:28,126 INFO  [-->] Loading XLS Files 
+2017-05-14 14:51:28,640 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:51:28,640 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 14:51:28,673 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 14:51:28,673 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 14:51:28,673 INFO  [-->] Opening Firefox Browser 
+2017-05-14 14:51:40,527 ERROR [-->] Not able to start the browser: -- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2017-05-14 14:52:44,522 INFO  [-->] Loading Property files 
+2017-05-14 14:52:44,522 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:52:44,522 INFO  [-->] Loading XLS Files 
+2017-05-14 14:52:45,099 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:52:45,099 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 14:52:45,131 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 14:52:45,131 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 14:52:45,131 INFO  [-->] Opening Firefox Browser 
+2017-05-14 14:52:50,528 INFO  [-->] Firefox browser started 
+2017-05-14 14:52:50,530 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 14:54:44,913 INFO  [-->] Loading Property files 
+2017-05-14 14:54:44,913 INFO  [-->] Loaded Property files successfully 
+2017-05-14 14:54:44,913 INFO  [-->] Loading XLS Files 
+2017-05-14 14:54:45,475 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 14:54:45,475 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 14:54:45,490 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 14:54:45,506 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 14:54:45,506 INFO  [-->] Opening Firefox Browser 
+2017-05-14 14:54:51,250 INFO  [-->] Firefox browser started 
+2017-05-14 14:54:51,250 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:11:22,943 INFO  [-->] Loading Property files 
+2017-05-14 15:11:22,945 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:11:22,945 INFO  [-->] Loading XLS Files 
+2017-05-14 15:11:23,556 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:11:23,556 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:11:23,590 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:11:23,590 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:11:23,590 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:11:31,388 INFO  [-->] Firefox browser started 
+2017-05-14 15:11:31,388 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:11:54,675 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:11:57,640 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:12:03,612 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 15:12:14,733 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 15:12:29,556 INFO  [-->] Clicking on:-- Return_xpath 
+2017-05-14 15:12:29,696 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"xpath","selector":"hp-widget__return"}
+Command duration or timeout: 135 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b61a6079-3c02-4ec0-99f8-f734f199843c
+*** Element info: {Using=xpath, value=hp-widget__return} 
+2017-05-14 15:12:31,829 INFO  [-->] ScreenShot is captured and stored at C:\Users\dell\workspace\MMTAutomation\Screenshots\Fail05-2017-14 15.12.29.jpg 
+2017-05-14 15:22:07,583 INFO  [-->] Loading Property files 
+2017-05-14 15:22:07,584 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:22:07,585 INFO  [-->] Loading XLS Files 
+2017-05-14 15:22:08,144 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:22:08,144 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:22:08,176 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:22:08,176 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:22:08,176 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:22:13,732 INFO  [-->] Firefox browser started 
+2017-05-14 15:22:13,733 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:22:20,371 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:22:23,309 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:22:29,535 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 15:22:40,407 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 15:22:54,902 INFO  [-->] Clicking on:-- Switch_to_Tocity_xpath 
+2017-05-14 15:22:57,373 INFO  [-->] Clicking on:-- Return_xpath 
+2017-05-14 15:22:57,467 ERROR [-->] Not able to click on -- Unable to locate element: {"method":"xpath","selector":"hp-widget__return"}
+Command duration or timeout: 87 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'dell-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c5ed8451-a038-4cdf-a2ef-f9744a0a1260
+*** Element info: {Using=xpath, value=hp-widget__return} 
+2017-05-14 15:22:59,589 INFO  [-->] ScreenShot is captured and stored at C:\Users\dell\workspace\MMTAutomation\Screenshots\Fail05-2017-14 15.22.57.jpg 
+2017-05-14 15:31:23,652 INFO  [-->] Loading Property files 
+2017-05-14 15:31:23,654 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:31:23,655 INFO  [-->] Loading XLS Files 
+2017-05-14 15:31:24,294 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:31:24,294 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:31:44,835 INFO  [-->] Loading Property files 
+2017-05-14 15:31:44,836 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:31:44,836 INFO  [-->] Loading XLS Files 
+2017-05-14 15:31:45,443 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:31:45,443 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:32:48,628 INFO  [-->] Loading Property files 
+2017-05-14 15:32:48,630 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:32:48,630 INFO  [-->] Loading XLS Files 
+2017-05-14 15:32:49,207 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:32:49,207 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:32:49,240 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:32:49,241 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:32:49,241 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:32:55,193 INFO  [-->] Firefox browser started 
+2017-05-14 15:32:55,193 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:33:10,908 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:33:13,807 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:33:20,020 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 15:33:30,994 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 15:33:45,598 INFO  [-->] Clicking on:-- Switch_to_Tocity_xpath 
+2017-05-14 15:33:47,992 INFO  [-->] Clicking on:-- Return_id 
+2017-05-14 15:36:33,636 INFO  [-->] Loading Property files 
+2017-05-14 15:36:33,637 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:36:33,637 INFO  [-->] Loading XLS Files 
+2017-05-14 15:36:34,215 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:36:34,215 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:36:34,250 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:36:34,250 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:36:34,250 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:36:39,679 INFO  [-->] Firefox browser started 
+2017-05-14 15:36:39,679 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:36:49,441 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:36:52,352 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:36:57,974 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 15:41:03,666 INFO  [-->] Loading Property files 
+2017-05-14 15:41:03,668 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:41:03,668 INFO  [-->] Loading XLS Files 
+2017-05-14 15:41:04,248 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:41:04,248 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:41:04,278 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:41:04,278 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:41:04,278 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:41:10,195 INFO  [-->] Firefox browser started 
+2017-05-14 15:41:10,196 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:41:26,522 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:41:29,386 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:41:33,202 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 15:41:38,839 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 15:41:50,219 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 15:42:04,999 INFO  [-->] Clicking on:-- Switch_to_Tocity_xpath 
+2017-05-14 15:42:07,400 INFO  [-->] Clicking on:-- Return_id 
+2017-05-14 15:46:16,668 INFO  [-->] Loading Property files 
+2017-05-14 15:46:16,670 INFO  [-->] Loaded Property files successfully 
+2017-05-14 15:46:16,670 INFO  [-->] Loading XLS Files 
+2017-05-14 15:46:17,259 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 15:46:17,259 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 15:46:17,289 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 15:46:17,289 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 15:46:17,289 INFO  [-->] Opening Firefox Browser 
+2017-05-14 15:46:23,405 INFO  [-->] Firefox browser started 
+2017-05-14 15:46:23,405 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 15:46:31,507 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 15:46:34,564 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 15:46:40,029 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 15:46:45,315 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 15:46:56,926 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 15:47:11,668 INFO  [-->] Clicking on:-- Switch_to_Tocity_xpath 
+2017-05-14 15:47:14,163 INFO  [-->] Clicking on:-- Return_id 
+2017-05-14 16:04:52,359 INFO  [-->] Loading Property files 
+2017-05-14 16:04:52,385 INFO  [-->] Loaded Property files successfully 
+2017-05-14 16:04:52,385 INFO  [-->] Loading XLS Files 
+2017-05-14 16:04:53,821 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 16:04:53,821 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 16:04:54,001 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 16:04:54,001 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 16:04:54,001 INFO  [-->] Opening Firefox Browser 
+2017-05-14 16:05:04,683 INFO  [-->] Firefox browser started 
+2017-05-14 16:05:04,683 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 16:05:17,108 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 16:05:20,221 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 16:05:25,521 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 16:05:32,875 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 16:05:46,228 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 16:07:15,530 INFO  [-->] Loading Property files 
+2017-05-14 16:07:15,532 INFO  [-->] Loaded Property files successfully 
+2017-05-14 16:07:15,532 INFO  [-->] Loading XLS Files 
+2017-05-14 16:07:16,103 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 16:07:16,104 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 16:07:16,135 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 16:07:16,135 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 16:07:16,135 INFO  [-->] Opening Firefox Browser 
+2017-05-14 16:07:22,186 INFO  [-->] Firefox browser started 
+2017-05-14 16:07:22,186 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 16:07:29,506 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 16:07:32,476 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 16:07:37,966 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 16:07:45,550 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 16:07:58,541 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 16:08:13,270 INFO  [-->] Clicking on:-- Switch_to_Tocity_xpath 
+2017-05-14 16:08:15,661 INFO  [-->] Clicking on:-- Return_id 
+2017-05-14 16:29:54,370 INFO  [-->] Loading Property files 
+2017-05-14 16:29:54,372 INFO  [-->] Loaded Property files successfully 
+2017-05-14 16:29:54,372 INFO  [-->] Loading XLS Files 
+2017-05-14 16:29:55,093 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 16:29:55,093 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 16:29:55,130 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 16:29:55,130 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 16:29:55,130 INFO  [-->] Opening Firefox Browser 
+2017-05-14 16:30:00,403 INFO  [-->] Firefox browser started 
+2017-05-14 16:30:00,403 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 16:30:10,048 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 16:30:15,238 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 16:30:18,947 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 16:30:26,893 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 16:30:39,977 INFO  [-->] Clicking on:-- Depart_xpath 
+2017-05-14 16:30:54,560 INFO  [-->] Clicking on:-- Switch_to_close_btn_xpath 
+2017-05-14 16:30:56,954 INFO  [-->] Clicking on:-- Return_id 
+2017-05-14 16:50:17,142 INFO  [-->] Loading Property files 
+2017-05-14 16:50:17,144 INFO  [-->] Loaded Property files successfully 
+2017-05-14 16:50:17,144 INFO  [-->] Loading XLS Files 
+2017-05-14 16:50:17,705 INFO  [-->] Loaded XLS Files successfully 
+2017-05-14 16:50:17,705 INFO  [-->] Checking Runmode of Suite mmt 
+2017-05-14 16:50:17,736 INFO  [-->] ================================ Executing TestCase_mobileAdd for Test Data: Firefox====================================================== 
+2017-05-14 16:50:17,736 INFO  [-->] ================================================================================================================================================== 
+2017-05-14 16:50:17,736 INFO  [-->] Opening Firefox Browser 
+2017-05-14 16:50:23,349 INFO  [-->] Firefox browser started 
+2017-05-14 16:50:23,349 INFO  [-->] Navigating to URL--:https://www.makemytrip.com 
+2017-05-14 16:50:38,218 INFO  [-->] Clicking on:-- Flight_tab_id 
+2017-05-14 16:50:41,125 INFO  [-->] Clicking on:-- roundtrip_option_xpath 
+2017-05-14 16:50:46,920 INFO  [-->] Clicking on:-- from_city_id 
+2017-05-14 16:50:53,806 INFO  [-->] Clicking on:-- to_city_id 
+2017-05-14 16:51:06,753 INFO  [-->] Clicking on:-- Depart_xpath 
